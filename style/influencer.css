@@ -145,8 +145,22 @@ nav li a{
     color: #FFF;
     font-size: 0.75rem;
     padding: 5px 25px;
-    /* border-radius: 15px; */
     border: 0;
+}
+
+/* footer styles */
+
+.footer-contain{
+    background: #131313;
+    color: #FFF;
+    text-align: center;
+    padding: 80px;
+
+}
+.icon img{
+    border-radius: 50%;
+    background-color:  #FFF;
+    margin-right: 10px;
 }
 /* mobil device */
 @media screen and (max-width:576px) {
